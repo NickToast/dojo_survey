@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    height: 150px;
+}
+
+h1{
+    color: #FEC008;
+}
+
+bg-color:focus{
+    background-color: #FEC008;
+}
+
+/* cant get background color to change, test later */
